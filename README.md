@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 Email : han.jaeyoung0@gmail.com
 
 
-team-project : [개인 github](https://github.com/splo-sh/team-project) / [team github](https://github.com/codestates-seb/seb43_main_012)
+team-project : [Team-Project Repository](https://github.com/splo-sh/team-project)
 
